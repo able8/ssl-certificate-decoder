@@ -1,0 +1,8 @@
+Website = "https://github.com/able8/ssl-certificate-decoder"
+
+[Details]
+  Icon = "Icon.png"
+  Name = "SSL Certificate Decoder"
+  ID = "com.github.able8.ssl-certificate-decoder"
+  Version = "0.1.0"
+  Build = 1
